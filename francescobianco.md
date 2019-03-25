@@ -1,6 +1,6 @@
 Francesco Bianco
 ================
-Sono un appassionato di open source
+Sono un appassionato del mondo open source
 
 Skills
 ------
