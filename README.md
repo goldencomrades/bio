@@ -2,10 +2,10 @@
 Golden Comrades people by skill
 
 ## NodeJS
- - [Francesco Bianco](francescobianco.md)
+ - [francescobianco](francescobianco.md)
 
 ## PHP
- - [Francesco Bianco](francescobianco.md)
+ - [francescobianco](francescobianco.md)
 
 ## Java
  - none
