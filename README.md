@@ -1,14 +1,14 @@
 # bio
 
 ## Javascript
- - [39ro](39ro.md)
+ - [39ro](heroes/39ro.md)
  
 ## NodeJS
- - [39ro](39ro.md)
- - [Francesco Bianco](francescobianco.md)
+ - [39ro](heroes/39ro.md)
+ - [Francesco Bianco](heroes/francescobianco.md)
  
 ## PHP
- - [Francesco Bianco](francescobianco.md)
+ - [Francesco Bianco](heroes/francescobianco.md)
   
 ## Typescript
- - [39ro](39ro.md)
+ - [39ro](heroes/39ro.md)
