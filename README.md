@@ -1,9 +1,6 @@
 # bio
 Golden Comrades people by skill
 
-## NodeJS
- - [francescobianco](francescobianco.md)
-
 ## Javascript
  - [39ro](heroes/39ro.md)
  
@@ -13,6 +10,7 @@ Golden Comrades people by skill
  
 ## PHP
  - [francescobianco](heroes/francescobianco.md)
+ - [antoninolatocca](heroes/antoninolatocca.md)
   
 ## Typescript
  - [39ro](heroes/39ro.md)
