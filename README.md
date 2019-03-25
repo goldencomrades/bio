@@ -20,3 +20,6 @@ Golden Comrades people by skill
  - [francescobianco](heroes/francescobianco.md)
  - [antoninolatocca](heroes/antoninolatocca.md)
  - [pietrosaluto](heroes/pietrosaluto.md) 
+ 
+ ## WordPress - Woocommerce
+ - [pietrosaluto](heroes/pietrosaluto.md) 
