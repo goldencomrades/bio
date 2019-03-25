@@ -14,3 +14,7 @@ Golden Comrades people by skill
   
 ## Typescript
  - [39ro](heroes/39ro.md)
+ 
+## WordPress
+ - [francescobianco](heroes/francescobianco.md)
+ - [antoninolatocca](heroes/antoninolatocca.md)
