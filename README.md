@@ -1,7 +1,7 @@
 # bio
 
 ## PHP
- - [](francescobianco.md)
+ - [Francesco Bianco](francescobianco.md)
 
 ## NodeJS
- - [](francescobianco.md)
+ - [Francesco Bianco](francescobianco.md)
