@@ -12,6 +12,7 @@ A list of our Golden Comrades' heroes biography sorted by skill
 ## PHP
  - [antoninolatocca](heroes/antoninolatocca.md)
  - [francescobianco](heroes/francescobianco.md)
+ - [pietrosaluto](heroes/pietrosaluto.md)
   
 ## Typescript
  - [39ro](heroes/39ro.md)
@@ -19,3 +20,4 @@ A list of our Golden Comrades' heroes biography sorted by skill
 ## WordPress
  - [antoninolatocca](heroes/antoninolatocca.md)
  - [francescobianco](heroes/francescobianco.md)
+ - [pietrosaluto](heroes/pietrosaluto.md) 
