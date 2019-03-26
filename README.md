@@ -21,3 +21,6 @@ A list of our Golden Comrades' heroes biography sorted by skill
  - [antoninolatocca](heroes/antoninolatocca.md)
  - [francescobianco](heroes/francescobianco.md)
  - [pietrosaluto](heroes/pietrosaluto.md) 
+ 
+ ## WordPress - Woocommerce
+ - [pietrosaluto](heroes/pietrosaluto.md) 
