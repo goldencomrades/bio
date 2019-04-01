@@ -1,0 +1,63 @@
+{
+  "nodes": [
+    {
+      "id": "OOP",
+      "group": 1
+    },
+    {
+      "id": "Web Development",
+      "group": 1
+    },
+    {
+      "id": "PSR4",
+      "group": 1
+    },
+    {
+      "id": "PHP",
+      "group": 1
+    },
+    {
+      "id": "JavaScript",
+      "group": 1
+    },
+    {
+      "id": "DevOps",
+      "group": 1
+    },
+    {
+      "id": "Travis CI",
+      "group": 1
+    },
+    {
+      "id": "Algorithms",
+      "group": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "PHP",
+      "target": "OOP",
+      "value": 2
+    },
+    {
+      "source": "PHP",
+      "target": "Web Development",
+      "value": 2
+    },
+    {
+      "source": "JavaScript",
+      "target": "Web Development",
+      "value": 2
+    },
+    {
+      "source": "PHP",
+      "target": "PSR4",
+      "value": 1
+    },
+    {
+      "source": "DevOps",
+      "target": "Travis CI",
+      "value": 1
+    }
+  ]
+}

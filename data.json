@@ -1,0 +1,19 @@
+{
+  "nodes": [
+    {
+      "id": "PHP",
+      "group": 1
+    },
+    {
+      "id": "JavaScript",
+      "group": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "PHP",
+      "target": "JavaScript",
+      "value": 2
+    }
+  ]
+}
