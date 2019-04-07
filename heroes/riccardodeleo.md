@@ -1,6 +1,6 @@
 # Riccardo De Leo
 
-Polyglot developer (PHP rockstar, javascript expert, c, a little bit of scala and python) software/solution/cloud architect, dev ops, infrastructure engineer, passionate for management, recently started to study machine learning. Proud to be CTO at covianalytics.com!
+Polyglot developer (PHP rockstar, javascript expert, c, a little bit of scala and python) software/solution/cloud architect, dev-ops, infrastructure engineer, passionate for management, recently started to study machine learning. Proud to be CTO at covianalytics.com!
 
 ## Skills
 
@@ -32,12 +32,14 @@ Polyglot developer (PHP rockstar, javascript expert, c, a little bit of scala an
 
 - Linux
     - Distributions
-        - Centos and derived 
+        - Centos and derived
         - Debian and derived
         - Alpine
+        - Slackware for historical reason
+        - Gentoo for didactic reason only
     - Monitoring
-        - Nagios
-        - iCinga
+        - Nagios / iCinga
+        - Monit
         - AWS platform container monitoring
         - Azure platform container monitoring
     - Containerization
@@ -49,18 +51,27 @@ Polyglot developer (PHP rockstar, javascript expert, c, a little bit of scala an
         - Vagrant
         - OpenStack
         - ProxMox
-    
-### Database
-
-- SQL
-    - MySQL
-    - MariaDB
-    - Postgres
-    - SQL Lite
-- NoSQL
-    - Cassandra (administration and CQLShell language)
-    - Mongodb
-    - Redis
+    - Security
+        - SeLinux
+        - App Armor
+        - Iptables
+        - Partition cryptography with LUKS
+        - OSCAP security scan
+        - GSM-CE OWASP type security scan
+    - HTTP
+        - Apache
+        - Ngnix
+        - Hiawata
+    - Database
+        - SQL
+            - MySQL
+            - MariaDB
+            - Postgres
+            - SQL Lite
+        - NoSQL
+            - Cassandra (administration and CQLShell language)
+            - Mongodb
+            - Redis
 
 ### Applications
 
