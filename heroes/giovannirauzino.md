@@ -20,4 +20,4 @@
 - via [email](mailto:g@fullbrains.com)
 
 #### Ho fatto
-- questi [progetti](https://drive.google.com/file/d/0B_55_xK0md_GRUhQWk5sV2libTg/view).
+- questi [progetti](https://drive.google.com/file/d/0B_55_xK0md_GRUhQWk5sV2libTg/view)
