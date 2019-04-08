@@ -65,6 +65,8 @@ A list of our Golden Comrades' heroes biography sorted by skill
  ## Marketing, Advertising
  - [Marco Caggiano](heroes/marcocaggiano.md)
 
+ ## UX/UI design
+- [Giovanni Rauzino](heroes/giovannirauzino.md)
  
  
 
