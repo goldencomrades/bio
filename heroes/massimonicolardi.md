@@ -7,11 +7,16 @@ My parents bought me a C64. The blinking of the cursor was so hypnotic to me. Pr
 This manual tought me the basic of computer programming (basic), the programming of sprites and sid (sound interface device).
 When I was 13 I started to program C64 in assembly. 
 
-After that I moved to Amiga and learned to program it in assembly. I founded an hacker group with many BBS all around the world. In 1991 I started electronic engineering. During the university I learned Linux and I went very deep into C programming, calcoulous, network and parallel programming techniques.
+After that I moved to Amiga and learned to program it in assembly. 
+
+I founded an hacker group with many BBS all around the world. 
+
+In 1991 I started electronic engineering. During the university I learned Linux and I went very deep into C programming, calcoulous, network and parallel programming techniques.
 
 I started my working career in 1999. I learned PHP, Html, Mysql. I have written tons of code ranging from booking, ecommerce single shop, CRM, CMS and so on.
 
 I graduated in 2002.
+In 2003 I have started a company named Catnic S.r.l. focoused on software development and hosting solutions
 
 At 2006 I have bought my first mac and I have started programming IOS devices. I have created and published a lot of apps. 
 Those for Android were done using Cordova sdk.
