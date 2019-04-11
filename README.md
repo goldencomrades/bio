@@ -1,48 +1,76 @@
 # Golden Comrades' heroes biography</h1>
+
 A list of our Golden Comrades' heroes biography sorted by skill 
 
 [![Build Status](https://travis-ci.org/goldencomrades/bio.svg?branch=master)](https://travis-ci.org/goldencomrades/bio)
+[![Heroes: 9](https://img.shields.io/badge/Heroes-9-yellow.svg)](https://github.com/goldencomrades/bio/tree/master/heroes)
 
 <hr>
 
 ## Javascript
- - [39ro](heroes/39ro.md)
+ - [Giovanni Riga](heroes/39ro.md)
  - [Marco Caggiano](heroes/marcocaggiano.md)
- 
+ - [Francesco Bianco](heroes/francescobianco.md)
+ - [Riccardo De Leo](heroes/riccardodeleo.md)
+ - [Giovanni Rauzino](heroes/giovannirauzino.md)
+ - [Enrico Deleo](heroes/enricodeleo.md)
+
 ## NodeJS
- - [39ro](heroes/39ro.md)
- - [francescobianco](heroes/francescobianco.md)
+ - [Giovanni Riga](heroes/39ro.md)
+ - [Francesco Bianco](heroes/francescobianco.md)
  - [Marco Caggiano](heroes/marcocaggiano.md)
- 
+ - [Francesco Bianco](heroes/francescobianco.md)
+ - [Riccardo De Leo](heroes/riccardodeleo.md)
+ - [Giovanni Rauzino](heroes/giovannirauzino.md)
+ -  [Enrico Deleo](heroes/enricodeleo.md)
+
 ## PHP
- - [antoninolatocca](heroes/antoninolatocca.md)
- - [francescobianco](heroes/francescobianco.md)
- - [pietrosaluto](heroes/pietrosaluto.md)
+ - [Antonino Latocca](heroes/antoninolatocca.md)
+ - [Francesco Bianco](heroes/francescobianco.md)
+ - [Pietro Saluto](heroes/pietrosaluto.md)
  - [Marco Caggiano](heroes/marcocaggiano.md)
-  
+ - [Riccardo De Leo](heroes/riccardodeleo.md)
+ - [Giovanni Rauzino](heroes/giovannirauzino.md)
+ - [Enrico Deleo](heroes/enricodeleo.md)
+
 ## Typescript
- - [39ro](heroes/39ro.md)
- 
+ - [Giovanni Riga](heroes/39ro.md)
+ - [Giovanni Rauzino](heroes/giovannirauzino.md)
+ - [Enrico Deleo](heroes/enricodeleo.md)
+
 ## WordPress
- - [antoninolatocca](heroes/antoninolatocca.md)
- - [francescobianco](heroes/francescobianco.md)
- - [pietrosaluto](heroes/pietrosaluto.md) 
+ - [Antonino Latocca](heroes/antoninolatocca.md)
+ - [Francesco Bianco](heroes/francescobianco.md)
+ - [Priero Saluto](heroes/pietrosaluto.md)
  - [Marco Caggiano](heroes/marcocaggiano.md)
- 
- ## WordPress - Woocommerce
- - [pietrosaluto](heroes/pietrosaluto.md) 
+ - [Riccardo De Leo](heroes/riccardodeleo.md)
+ - [Giovanni Rauzino](heroes/giovannirauzino.md)
+ - [Enrico Deleo](heroes/enricodeleo.md)
+
+ ### WordPress - Woocommerce
+ - [Piero Saluto](heroes/pietrosaluto.md)
+ - [Francesco Bianco](heroes/francescobianco.md)
+ - [Riccardo De Leo](heroes/riccardodeleo.md)
+ - [Giovanni Rauzino](heroes/giovannirauzino.md)
+ - [Enrico Deleo](heroes/enricodeleo.md)
 
  ## Python Flask
  - [Marco Caggiano](heroes/marcocaggiano.md)
+ - [Francesco Bianco](heroes/francescobianco.md)
 
  ## Linux/Unix/Bash
  - [Marco Caggiano](heroes/marcocaggiano.md)
+ - [Francesco Bianco](heroes/francescobianco.md)
+ - [Riccardo De Leo](heroes/riccardodeleo.md)
+ - [Enrico Deleo](heroes/enricodeleo.md)
 
  ## C/C++/Qt Framework
  - [Marco Caggiano](heroes/marcocaggiano.md)
 
  ## Ionic
  - [Marco Caggiano](heroes/marcocaggiano.md)
+ - [Giovanni Rauzino](heroes/giovannirauzino.md)
+ - [Enrico Deleo](heroes/enricodeleo.md)
 
  ## Affiliate Marketing & HasOffers API
  - [Marco Caggiano](heroes/marcocaggiano.md)
@@ -50,8 +78,6 @@ A list of our Golden Comrades' heroes biography sorted by skill
  ## Marketing, Advertising
  - [Marco Caggiano](heroes/marcocaggiano.md)
 
- 
- 
-
-
-
+ ## UX/UI design
+ - [Giovanni Rauzino](heroes/giovannirauzino.md)
+ - [Enrico Deleo](heroes/enricodeleo.md)
