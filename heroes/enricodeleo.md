@@ -6,7 +6,7 @@ I learned how to code and design driven by my genuine passion and curiosity towa
 
 During the last few years, I had the pleasure to work for companies such as Hasbro Italia, Koch Media, and Cortilia as well as for public organizations such as the University of Catania.
 
-I co-founded and/or drive as CTO a few startups (namely [VERTICOMICS](https://verticomics.com), [Traction](https://tractionmanagement.it), [Emailurgency](https://emailurgency.com)).
+I co-founded and/or drive as CTO a few startups (namely [VERTICOMICS](https://verticomics.com), [Traction](http://tractionmanagement.it), [Emailurgency](https://emailurgency.com)).
 
 I speak Italian, English, PHP, JavaScript, Bash, a little bit of Java, Objective-C, Swift, Rust and I'm proud to be a DevOp.
 
