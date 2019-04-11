@@ -1,5 +1,8 @@
 # Golden Comrades' heroes biography</h1>
 A list of our Golden Comrades' heroes biography sorted by skill 
+
+[![Build Status](https://travis-ci.org/goldencomrades/bio.svg?branch=master)](https://travis-ci.org/goldencomrades/bio)
+
 <hr>
 
 ## Javascript
