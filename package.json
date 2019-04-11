@@ -1,0 +1,10 @@
+{
+  "nane": "@goldencomrades/bio",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.2"
+  }
+}

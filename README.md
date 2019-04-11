@@ -1,7 +1,8 @@
 # Golden Comrades' heroes biography</h1>
 
-A list of our Golden Comrades' heroes biography sorted by skill
+A list of our Golden Comrades' heroes biography sorted by skill 
 
+[![Build Status](https://travis-ci.org/goldencomrades/bio.svg?branch=master)](https://travis-ci.org/goldencomrades/bio)
 [![Heroes: 9](https://img.shields.io/badge/Heroes-9-yellow.svg)](https://github.com/goldencomrades/bio/tree/master/heroes)
 
 <hr>
@@ -80,8 +81,3 @@ A list of our Golden Comrades' heroes biography sorted by skill
  ## UX/UI design
  - [Giovanni Rauzino](heroes/giovannirauzino.md)
  - [Enrico Deleo](heroes/enricodeleo.md)
-
-
-
-
-
