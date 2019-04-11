@@ -8,7 +8,7 @@ During the last few years, I had the pleasure to work for companies such as Hasb
 
 I co-founded and/or drive as CTO a few startups (namely [VERTICOMICS](https://verticomics.com), [Traction](http://tractionmanagement.it), [Emailurgency](https://emailurgency.com)).
 
-I speak Italian, English, PHP, JavaScript, Bash, a little bit of Java, Objective-C, Swift, Rust and I'm proud to be a DevOp.
+I speak Italian, English, PHP, JavaScript, Bash, a little bit of Java, Objective-C, Swift, Rust and I'm proud to be a DevOps.
 
 I'm quite confident at designing interfaces and make creativities on my own when needed.
 
