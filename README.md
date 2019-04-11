@@ -1,8 +1,9 @@
 # Golden Comrades' heroes biography</h1>
 
+A list of our Golden Comrades' heroes biography sorted by skill
+
 [![Heroes: 9](https://img.shields.io/badge/Heroes-9-yellow.svg)](https://github.com/goldencomrades/bio/tree/master/heroes)
 
-A list of our Golden Comrades' heroes biography sorted by skill
 <hr>
 
 ## Javascript
